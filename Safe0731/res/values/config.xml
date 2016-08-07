@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="update_app_url">http://192.168.0.102:8080/version.xml</string>
+
+</resources>
